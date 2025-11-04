@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MP3</string>
+    <string name="album_art">Carátula del álbum</string>
+    <string name="play">Reproducir</string>
+    <string name="pause">Pausar</string>
+    <string name="stop">Detener</string>
+    <string name="audio_wave">Visualizador de audio</string>
+
+
+</resources>
